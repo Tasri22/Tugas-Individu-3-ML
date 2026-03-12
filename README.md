@@ -143,7 +143,3 @@ Video presentasi dapat dilihat pada link berikut:
 Melalui praktik ini dapat dipahami bahwa **List, Tuple, Set, dan Dictionary** merupakan struktur data dasar dalam Python yang sangat penting dalam pengolahan data dan pemrograman.
 
 Pemahaman struktur data ini menjadi dasar penting dalam **Machine Learning dan Data Processing**.
-
-```
-
-
