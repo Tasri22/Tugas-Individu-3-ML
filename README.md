@@ -125,7 +125,7 @@ Tugas-Individu-3-ML
 
 Video presentasi dapat dilihat pada link berikut:
 
-📺 [https://youtube.com/link-video-presentasi](https://youtube.com/link-video-presentasi)
+📺 [https://youtube.com/link-video-presentasi](https://youtu.be/S4na3g0P0v8?si=vA2O8uQfE6rnr9l-)
 
 ---
 
