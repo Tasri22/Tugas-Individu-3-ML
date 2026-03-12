@@ -1,4 +1,4 @@
-````markdown
+
 # 📊 Python Data Structure Practice
 ### Machine Learning Practice – Individual Assignment 3
 
@@ -146,5 +146,4 @@ Pemahaman struktur data ini menjadi dasar penting dalam **Machine Learning dan D
 
 ```
 
----
 
